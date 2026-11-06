@@ -1,18 +1,22 @@
 ### Hi, I'm Antonio 👋
 
-I build tools that help people learn.
+I build tools that support learning, tutoring, and speech research.
 
-- **Research:** Undergraduate Research Assistant at the Future of Learning Lab, on the ASR leaderboard team with the [National Tutoring Observatory](https://github.com/National-Tutoring-Observatory). We benchmark speech recognition models on real tutoring audio.
-- **School:** Student at Tompkins Cortland Community College (TC3). This fall: Calculus III and Physics II.
+- **Research:** Research Assistant at Cornell's Future of Learning Lab, working with the National Tutoring Observatory on ASR evaluation and speech annotation tools since September 2026.
+- **School:** A.S. in Engineering Science at Tompkins Cortland Community College, expected May 2027. GPA: 3.6. Planned transfer toward a B.S. in Computer Science.
 - **Language:** Python.
 
-### What I'm building
+### Projects
 
-**[gpt-board](https://github.com/AntonioZannella/gpt-board)** *(in progress)*: a whiteboard math tutor that plugs into ChatGPT, Claude, and Gemini. You work problems on the board and the AI tutors you by voice. I wrote and own the Python backend. The JavaScript frontend is AI-assisted.
+**[GPT Board](https://github.com/AntonioZannella/gpt-board)** is a personal handwriting workspace with saved notebooks, infinite whiteboards, and MCP tools that let a connected AI assistant read and draw on the board. It has a Python standard-library backend and a JavaScript canvas frontend. It is early stage: public installation is not ready, and review logging depends on my separate Math Learning System.
 
-**Focus Reader** *(paused)*: a text-to-speech reading app for people with ADHD, built with AI from a spec I wrote.
+**[Focus Reader](https://github.com/AntonioZannella/focus-reader)** is a text-to-speech reader with synchronized word highlighting, PDF import, and a saved-document library. It runs on Python/Flask and JavaScript, with Python and Node checks in CI and browser tests run locally. **[Try the demo](https://focus-reader.onrender.com)** — free hosting can add a delay on the first visit, and new audio depends on an external speech service.
+
+I design the features and test them, using AI coding tools for implementation. Focus Reader was built with Claude Code from a build plan. I'm learning the GPT Board Python backend line by line as I maintain it.
 
 ### Right now
 
-- Learning the gpt-board backend line by line so I can explain every part of it
-- Getting gpt-board ready for other students to use
+- Improving the reliability and setup of GPT Board before making it ready for other students
+- Looking for Summer 2027 or Summer 2028 software, ML engineering, and speech/ASR internships
+
+[LinkedIn](https://www.linkedin.com/in/antoniozannella/)
