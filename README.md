@@ -17,6 +17,5 @@ I design the features and test them, using AI coding tools for implementation. F
 ### Right now
 
 - Improving the reliability and setup of GPT Board before making it ready for other students
-- Looking for Summer 2027 or Summer 2028 software, ML engineering, and speech/ASR internships
 
 [LinkedIn](https://www.linkedin.com/in/antoniozannella/)
